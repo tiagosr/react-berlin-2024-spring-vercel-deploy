@@ -2,7 +2,7 @@ import styles from "./ProjectDeploy.module.css";
 
 export default function ProjectDeploy() {
     return <div className={styles["project-bg"]}>
-        <h1>Let&apos;s deploy this application to Vercel!</h1>
+        <h1>Let&apos;s deploy this application to Vercel -- nope, it's already deployed!</h1>
         <p>
             <ul>
                 <li>First things first: Let&apos;s clone this repo to our local <a href="https://github.com/">Github</a>.</li>
